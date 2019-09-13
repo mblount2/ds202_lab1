@@ -1,0 +1,11 @@
+---
+title: "owner_Mikaela"
+author: "Mikaela Blount"
+date: "9/12/2019"
+output: html_document
+---
+
+1. Mikaela Blount
+2. I study statistics and economics.
+3. Write things down, cross off items, and check calender.
+4. I am on the boxing club.
